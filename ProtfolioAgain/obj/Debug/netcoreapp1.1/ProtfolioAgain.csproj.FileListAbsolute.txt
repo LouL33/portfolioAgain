@@ -1,0 +1,9 @@
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\bin\Debug\netcoreapp1.1\ProtfolioAgain.deps.json
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\bin\Debug\netcoreapp1.1\ProtfolioAgain.runtimeconfig.json
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\bin\Debug\netcoreapp1.1\ProtfolioAgain.runtimeconfig.dev.json
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\bin\Debug\netcoreapp1.1\ProtfolioAgain.dll
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\bin\Debug\netcoreapp1.1\ProtfolioAgain.pdb
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\obj\Debug\netcoreapp1.1\ProtfolioAgain.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\obj\Debug\netcoreapp1.1\ProtfolioAgain.AssemblyInfo.cs
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\obj\Debug\netcoreapp1.1\ProtfolioAgain.dll
+C:\Users\Lou75\tiy\week-8\ProtfolioAgain\ProtfolioAgain\obj\Debug\netcoreapp1.1\ProtfolioAgain.pdb
